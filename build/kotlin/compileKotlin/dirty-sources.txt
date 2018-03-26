@@ -1,2 +1,0 @@
-/home/kacper/Projects/teaching/src/main/kotlin/FooBar.kt
-/home/kacper/Projects/teaching/src/main/kotlin/TutorialApplication.kt
